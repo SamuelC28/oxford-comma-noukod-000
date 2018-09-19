@@ -1,3 +1,3 @@
 def oxford_comma(array)
-array.join(",")
+puts "#{array[0]} , #{array[1]}, and #{array[2]}"
 end
